@@ -1,0 +1,4 @@
+# Enable GitHub Pages with Jekyll to render Markdown pages in /projects
+theme: minima
+title: Annie's Computing & Research Portfolio
+description: ML, Data Science, NASA GeneLab, SSP, Dysgraphia Detection, Violin Physics
