@@ -1,7 +1,6 @@
-# Data Science Internship — C2FO
-**Tech:** SQL (Redshift), Power BI, DAX, Python
+# Congressional App Challange 2023
+**Tech:** Swiftcode, SQL
 
-YoY GMR dashboards and automated reporting for market engagement metrics.
 
 ## 🔍 Summary
 - Problem: Need for reproducible analytics and clear YoY comparisons across markets.
